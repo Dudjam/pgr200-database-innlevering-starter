@@ -3,19 +3,22 @@
 Navn: Benjamin Le, William Nordli
 Feide-ID: leben17, norwil17
 
-Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt?
+Det ble dessverre en veldig manglende innlevering. I sluttfasen begynte alt å falle litt på plass, hvor vi kunne se betydelig fremgang, men det ble dessverre ikke nok tid til et solid sluttprodukt for oss. 
+Enkelte deler av programmet (spesielt midlertidige løsninger og tester, som lesing av innlevering.properties, måtte jeg kommentere ut for å få "mvn package" til å kjøre. Fikk dessverre heller ikke mye tid til å teste den endelige .jar filen og maven oppsettet, men fungerer tilsynelatende som det skal på min ende. 
+
+##Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt?
 
 Da vi ikke har kommet helt i mål skal funksjonaliteten være lett testbar ved å kjøre koden med ett av tre argumenter: "insert", "list" og "cleanup" (uten anførselstegn, og cleanup er en funksjon vi la til under utvikling for å tømme alle rader i "conference_talks" i databasen på en kjapp måte.).
 
-Inkluderer dokumentasjonen en evaluering av hvordan man jobbet sammen?
+##Inkluderer dokumentasjonen en evaluering av hvordan man jobbet sammen?
 
-Vi fikk grupppe sent, som førte til at vi hadde lite tid å jobbe med arbeidskravet. Så vi hadde ikke mye oppmøte og det førte til at kommunikasjonen var mest digitalt.
+Vi fikk ordnet grupppe sent, som førte til at vi hadde lite tid å jobbe med arbeidskravet. Så vi hadde ikke mye oppmøte og det førte til at kommunikasjonen var mest digitalt.
 
-Inkluderer dokumentasjonen av screencast av en parprogrammeringsesjon? 
+##Inkluderer dokumentasjonen av screencast av en parprogrammeringsesjon? 
 
 Siden vi hadde så dårlig tid, rakk vi desverre ikke å gjennomføre parprogrammeringsesjonen. 
 
-Inkluderer dokumentasjonen en evaluering fra en annen gruppe og en evaluering til en annen gruppe?
+##Inkluderer dokumentasjonen en evaluering fra en annen gruppe og en evaluering til en annen gruppe?
 
 Vi hadde ikke nok tid til å få tilbakemelding fra en annen gruppe, siden vi prioriterte å fullføre oppgaven.
 
@@ -56,19 +59,19 @@ Dere skal også gi tilbakemelding på en annen gruppes besvarelse. Tilbakemeldin
 - [ ] Kodekvalitet
     - [ ] Produserer `mvn package` en executable jar? (tips: Bruk `maven-shade-plugin`)
     - [x] Bruker koden Java 8 og UTF-8
-    - [ ] Bygger prosjektet på https://travis-ci.com?
-    - [ ] Har du god test-dekning? (tips: Sett opp jacoco-maven-plugin til å kreve at minst 65% av linjene har testdekning)
-    - [ ] Kobler main-klassen seg opp mot PostgreSQL ved hjelp av en properties-fil?
-    - [ ] Kan main-klassen resette databasen? (tips: Bruk Flyway#clear)
+    - [ ] ~~Bygger prosjektet på https://travis-ci.com?
+    - [ ] ~~Har du god test-dekning? (tips: Sett opp jacoco-maven-plugin til å kreve at minst 65% av linjene har testdekning)
+    - [x] Kobler main-klassen seg opp mot PostgreSQL ved hjelp av en properties-fil?
+    - [ ] ~~Kan main-klassen resette databasen? (tips: Bruk Flyway#clear)
 - [x] Funksjonalitet
     - [x] Kan man legge inn et nytt foredrag?
     - [x] Kan man liste foredrag i databasen?
     - [ ] ~~Valgfritt: Oppretter main-klassen et konferanseprogram med flere dager og tracks?~~
     - [ ] ~~Valgfritt: Kan main-klassen vise konferanseprogrammet?~~
-- [ ] Dokumentasjon i form av README.md
-    - [ ] Navn og Feide-ID på dere de som var på teamet
-    - [ ] Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt? (Inkludert eventuell ekstra funksjonalitet dere har tatt med)
-    - [ ] Inkluderer dokumentasjonen en evaluering av hvordan man jobbet sammen?
+- [x] Dokumentasjon i form av README.md
+    - [x] Navn og Feide-ID på dere de som var på teamet
+    - [x] Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt? (Inkludert eventuell ekstra funksjonalitet dere har tatt med)
+    - [x] Inkluderer dokumentasjonen en evaluering av hvordan man jobbet sammen?
     - [ ] ~~Inkluderer dokumentasjonen en screencast av en parprogrammeringsesjon?
     - [ ] ~~Inkluderer dokumentasjonen en evaluering _fra_ en annen gruppe og en evaluering _til_ en annen gruppe?
     - [ ] ~~Inkluderer dokumentasjonen et databasediagram
