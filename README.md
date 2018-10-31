@@ -5,6 +5,7 @@ Feide-ID: leben17, norwil17
 
 Det ble dessverre en veldig manglende innlevering. I sluttfasen begynte alt å falle litt på plass, hvor vi kunne se betydelig fremgang, men det ble dessverre ikke nok tid til et solid sluttprodukt for oss. 
 Enkelte deler av programmet (spesielt midlertidige løsninger og tester, som lesing av innlevering.properties, måtte jeg kommentere ut for å få "mvn package" til å kjøre. Fikk dessverre heller ikke mye tid til å teste den endelige .jar filen og maven oppsettet, men fungerer tilsynelatende som det skal på min ende. 
+Men alt i alt, etter at vi kom ordentlig igang, så har det vært en morsom og interessant oppgave å jobbe med.
 
 ##Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt?
 
