@@ -1,3 +1,24 @@
+# Dokumentasjon 
+
+Navn: Benjamin Le, William Nordli
+Feide-ID: leben17, norwil17
+
+Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt?
+
+Da vi ikke har kommet helt i mål skal funksjonaliteten være lett testbar ved å kjøre koden med ett av tre argumenter: "insert", "list" og "cleanup" (uten anførselstegn, og cleanup er en funksjon vi la til under utvikling for å tømme alle rader i "conference_talks" i databasen på en kjapp måte.).
+
+Inkluderer dokumentasjonen en evaluering av hvordan man jobbet sammen?
+
+Vi fikk grupppe sent, som førte til at vi hadde lite tid å jobbe med arbeidskravet. Så vi hadde ikke mye oppmøte og det førte til at kommunikasjonen var mest digitalt.
+
+Inkluderer dokumentasjonen av screencast av en parprogrammeringsesjon? 
+
+Siden vi hadde så dårlig tid, rakk vi desverre ikke å gjennomføre parprogrammeringsesjonen. 
+
+Inkluderer dokumentasjonen en evaluering fra en annen gruppe og en evaluering til en annen gruppe?
+
+Vi hadde ikke nok tid til å få tilbakemelding fra en annen gruppe, siden vi prioriterte å fullføre oppgaven.
+
 # PGR200 Innlevering 2: JDBC og databaser
 
 Innleveringsfrist: 1. november.
