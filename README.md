@@ -39,11 +39,11 @@ Dere skal også gi tilbakemelding på en annen gruppes besvarelse. Tilbakemeldin
     - [ ] Har du god test-dekning? (tips: Sett opp jacoco-maven-plugin til å kreve at minst 65% av linjene har testdekning)
     - [ ] Kobler main-klassen seg opp mot PostgreSQL ved hjelp av en properties-fil?
     - [ ] Kan main-klassen resette databasen? (tips: Bruk Flyway#clear)
-- [ ] Funksjonalitet
-    - [ ] Kan man legge inn et nytt foredrag?
-    - [ ] Kan man liste foredrag i databasen?
-    - [ ] Valgfritt: Oppretter main-klassen et konferanseprogram med flere dager og tracks?
-    - [ ] Valgfritt: Kan main-klassen vise konferanseprogrammet?
+- [x] Funksjonalitet
+    - [x] Kan man legge inn et nytt foredrag?
+    - [x] Kan man liste foredrag i databasen?
+    - [ ] ~~Valgfritt: Oppretter main-klassen et konferanseprogram med flere dager og tracks?~~
+    - [ ] ~~Valgfritt: Kan main-klassen vise konferanseprogrammet?~~
 - [ ] Dokumentasjon i form av README.md
     - [ ] Navn og Feide-ID på dere de som var på teamet
     - [ ] Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt? (Inkludert eventuell ekstra funksjonalitet dere har tatt med)
