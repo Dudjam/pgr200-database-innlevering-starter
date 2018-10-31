@@ -5,6 +5,8 @@ import java.util.UUID;
 
 import javax.sql.DataSource;
 
+import org.flywaydb.core.Flyway;
+
 import org.postgresql.ds.PGPoolingDataSource;
 
 public class DatabaseMain {
@@ -58,6 +60,7 @@ public class DatabaseMain {
 		dao.listTalks();
 	}
 	
+	//Removes rows from conference_talks
 	private void cleanup() throws SQLException {
     	dao.cleanup();
     }

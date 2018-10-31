@@ -48,7 +48,7 @@ public class ConferenceTalksDao {
     	}
     }
     
-    //WILLIAM
+    //Removes rows from conference_talk
     public void cleanup() throws SQLException {
         try(Connection conn = dataSource.getConnection()) {
             String sql = "delete from CONFERENCE_TALK";
