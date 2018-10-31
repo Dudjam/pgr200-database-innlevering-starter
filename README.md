@@ -73,16 +73,16 @@ Dere skal også gi tilbakemelding på en annen gruppes besvarelse. Tilbakemeldin
     - [x] Navn og Feide-ID på dere de som var på teamet
     - [x] Inkluderer dokumentasjonen hvordan man tester ut funksjonaliteten programmet manuelt? (Inkludert eventuell ekstra funksjonalitet dere har tatt med)
     - [x] Inkluderer dokumentasjonen en evaluering av hvordan man jobbet sammen?
-    - [ ] ~~Inkluderer dokumentasjonen en screencast av en parprogrammeringsesjon?
-    - [ ] ~~Inkluderer dokumentasjonen en evaluering _fra_ en annen gruppe og en evaluering _til_ en annen gruppe?
-    - [ ] ~~Inkluderer dokumentasjonen et databasediagram
-    - [ ] ~~Inkluderer dokumentasjonen en link til screencast av programmeringsesjon?
+    - [ ] ~~Inkluderer dokumentasjonen en screencast av en parprogrammeringsesjon?~~
+    - [ ] ~~Inkluderer dokumentasjonen en evaluering _fra_ en annen gruppe og en evaluering _til_ en annen gruppe?~~
+    - [ ] ~~Inkluderer dokumentasjonen et databasediagram~~
+    - [ ] ~~Inkluderer dokumentasjonen en link til screencast av programmeringsesjon?~~
 
 ## Forberedelse
 
 - [x] Finn en grupperpartner innen 16. oktober
     - [x] De som ikke har en partner innen 16. oktober blir tildelt en annen
-- [ ] ~~Finn en gruppe for gjensidig evaluering innen 23. oktober
+- [ ] ~~Finn en gruppe for gjensidig evaluering innen 23. oktober~~
 
 ## Innlevering
 
