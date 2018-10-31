@@ -57,8 +57,8 @@ Dere skal også gi tilbakemelding på en annen gruppes besvarelse. Tilbakemeldin
 
 ## Sjekkliste for innleveringen
 
-- [ ] Kodekvalitet
-    - [ ] Produserer `mvn package` en executable jar? (tips: Bruk `maven-shade-plugin`)
+- [x] Kodekvalitet
+    - [x] Produserer `mvn package` en executable jar? (tips: Bruk `maven-shade-plugin`)
     - [x] Bruker koden Java 8 og UTF-8
     - [ ] ~~Bygger prosjektet på https://travis-ci.com?
     - [ ] ~~Har du god test-dekning? (tips: Sett opp jacoco-maven-plugin til å kreve at minst 65% av linjene har testdekning)
